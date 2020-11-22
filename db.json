@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "T-shirt 1",
+      "price": 2100.21515151,
+      "article": "T1",
+      "available": true,
+      "category": "Мужские",
+      "quantity": 1
+    },
+    {
+      "image": "2.jpg",
+      "name": "T-shirt 2",
+      "price": 3150.11,
+      "article": "T2",
+      "available": true,
+      "category": "Женские",
+      "quantity": 1
+    },
+    {
+      "image": "3.jpg",
+      "name": "T-shirt 3",
+      "price": 4200.12365855,
+      "article": "T3",
+      "available": false,
+      "category": "Женские",
+      "quantity": 1
+    },
+    {
+      "image": "4.jpg",
+      "name": "T-shirt 4",
+      "price": 5300.124856,
+      "article": "T4",
+      "available": true,
+      "category": "Мужские",
+      "quantity": 1
+    },
+    {
+      "image": "5.jpg",
+      "name": "T-shirt 5",
+      "price": 6500.1225488,
+      "article": "T5",
+      "available": false,
+      "category": "Женские",
+      "quantity": 1
+    },
+    {
+      "image": "6.jpeg",
+      "name": "T-shirt 6",
+      "price": 8700.123659,
+      "article": "T6",
+      "available": true,
+      "category": "Женские",
+      "quantity": 1
+    }
+  ]
+}

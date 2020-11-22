@@ -1,0 +1,28 @@
+@import './variables.scss';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+.btn {
+  padding: $padding;
+  background: $green-bg;
+  color: #fff;
+  border: 0;
+  border-radius: $radius;
+  outline: none;
+  cursor: pointer;
+  transition: .2s;
+  &:hover {
+    background: $green-bg-hover;
+  }
+}
